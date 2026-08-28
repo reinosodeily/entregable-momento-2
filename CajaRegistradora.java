@@ -74,6 +74,8 @@ System.out.println(" seleccione el tipo de producto del 1 al 4");
              porcentajePremiun = (contadorPremiun*100.0) / contadorAticulo;
              System.out.println("el porcentaje de productos premiun:"+porcentajePremiun);
 
+             
+             leer.close();
 
 
         
